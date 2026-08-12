@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s6.iimage.su/s/12/gBYZgkoxbEHsfaBGg7evoeSyg4yKUPJOoyJGrwZHI.jpg" alt="Альтернативный текст">
+  <img src="https://s6.iimage.su/s/12/th_g1yNhVVxyTwXbJGhf8UCMX5CkMhF8vl9UzoP3PTCV.jpg" alt="Альтернативный текст">
 </p>
 
 ## Привет, я Артём!
