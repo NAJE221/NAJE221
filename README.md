@@ -17,15 +17,8 @@
 
 
 
-<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Logo">
-</a>
-<a href="https://dotnet.microsoft.com/ru-ru/">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# Logo">
-</a>
-<a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="C# Logo">
-</a>
+<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Logo"></a><a href="https://dotnet.microsoft.com/ru-ru/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Logo"></a><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Logo"></a>
+
 
 
 
@@ -40,13 +33,8 @@
 
 ## Связаться со мной
 
-<a href="mailto: artemigorevic113@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="C# Logo">
-</a>
+<a href="mailto:artemigorevic113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"></a><a href="https://dotnet.microsoft.com/ru-ru/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Logo"></a>
 
-<a href="https://dotnet.microsoft.com/ru-ru/">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="C# Logo">
-</a>
 
 
 
