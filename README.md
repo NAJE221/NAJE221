@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/e2/ea/2f/e2ea2f36a4acfb259a83c2149e17ec4c.jpg" alt="Альтернативный текст">
+  <img src="https://i.ibb.co/cXr1dwsK/e2ea2f36a4acfb259a83c2149e17ec4c.jpg" alt="Альтернативный текст">
 </p>
 
 ## Привет, я Артём!
-
 
 
 
