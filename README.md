@@ -33,6 +33,6 @@
 
 📬 Связь
 ---
-[![C#](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:artemigorevic113@gmail.com)
+[![C#](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:artemigorevich113@gmail.com)
 
 </div>
